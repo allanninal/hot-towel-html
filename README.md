@@ -61,12 +61,12 @@ It is a folder of static files, so any static host works.
 
 ## Measured scores
 
-Lighthouse mobile, this folder served as static files, median of three runs (4 November 2026):
+Lighthouse mobile, this folder served as static files, median of three runs (10 November 2026):
 
 | Page | Performance | Accessibility | Best practices | SEO |
 |---|---:|---:|---:|---:|
-| Home | 97 | 100 | 100 | 100 |
-| Journal | 100 | 100 | 100 | 100 |
+| Home | 95 | 100 | 100 | 100 |
+| Journal | 99 | 100 | 100 | 100 |
 | Contact | 100 | 100 | 100 | 100 |
 
 Your scores will vary with your host and photos.
